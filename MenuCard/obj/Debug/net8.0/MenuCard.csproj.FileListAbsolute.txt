@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MenuCard\MenuCard\bin\Debug\net8.0\MenuCard.exe
+C:\Users\User\source\repos\MenuCard\MenuCard\bin\Debug\net8.0\MenuCard.deps.json
+C:\Users\User\source\repos\MenuCard\MenuCard\bin\Debug\net8.0\MenuCard.runtimeconfig.json
+C:\Users\User\source\repos\MenuCard\MenuCard\bin\Debug\net8.0\MenuCard.dll
+C:\Users\User\source\repos\MenuCard\MenuCard\bin\Debug\net8.0\MenuCard.pdb
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.AssemblyInfo.cs
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.dll
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\refint\MenuCard.dll
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.pdb
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\MenuCard.genruntimeconfig.cache
+C:\Users\User\source\repos\MenuCard\MenuCard\obj\Debug\net8.0\ref\MenuCard.dll
